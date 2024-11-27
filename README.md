@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew Sasmito!  
 
-<!--
-**AndrewSasmito/AndrewSasmito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd-Year Computer Science Student** at the University of Toronto  
+🎯 Aspiring **Software Engineer & Researcher**  
+💻 Passionate about **Embedded Systems**, **Databases** and **Competitive Programming**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🌱 I'm currently working on projects at OISE, focusing on fullstack development.  
+- 🚀 I thrive on **challenging coding problems** and love solving algorithmic puzzles, a passion that started in **Grade 11** with competitive programming.  
+---
+
+## 🛠️ Skills  
+
+- **Programming Languages**: Python, C/C++, Java, SQL  
+- **Frontend Tools**: React, Redux, HTML/CSS  
+- **Backend/Database**: MongoDB, PHP, Firebase  
+- **Software Engineering**: OOP, Software Design, Testing, Scripting
+
+---
+
+## 🌍 Let's Connect!  
+
+📫 Feel free to reach out to connect on **[LinkedIn](https://www.linkedin.com/in/andrew-sasmito/)**!  
+🤝 Always open to collaboration on **cool projects** or discussions about **tech** and **opportunities**.  
