@@ -18,7 +18,7 @@
 - **Frontend Tools**: React, Redux, HTML/CSS  
 - **Backend/Database**: MongoDB, PHP, Firebase  
 - **Software Engineering**: OOP, Software Design, Testing, Scripting
-- 
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSasmito&layout=compact&theme=radical)
 ---
 
