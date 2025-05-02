@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrew Sasmito!  
 
-🎓 **2nd-Year Computer Science Student** at the University of Toronto  
+🎓 **3rd-Year Computer Science Student** at the University of Toronto  
 🎯 Aspiring **Software Engineer & Researcher**  
 💻 Passionate about **Embedded Systems**, **Databases** and **Competitive Programming**  
 
