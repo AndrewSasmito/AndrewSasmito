@@ -8,7 +8,7 @@
 
 ## 🌟 About Me  
 
-- 🌱 I'm currently working on projects at OISE, focusing on fullstack development.  
+- 🌱 I'm currently working on projects at IBM on the Java WebSphere team.  
 - 🚀 I thrive on **challenging coding problems** and love solving algorithmic puzzles, a passion that started in **Grade 11** with competitive programming.  
 ---
 
